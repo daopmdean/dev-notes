@@ -1,4 +1,4 @@
-# FlatButton
+# FlatButton (Deprecated)
 
 ```dart
 FlatButton(
