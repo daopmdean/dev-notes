@@ -7,3 +7,5 @@
 ## Youtube
 
 [The Go Programming Language](https://www.youtube.com/watch?v=rKnDgT73v8s)
+[Google I/O Go Programming](https://www.youtube.com/watch?v=jgVhBThJdXc)
+[Massive Go App](https://www.youtube.com/watch?v=hWNwI5q01gI)
