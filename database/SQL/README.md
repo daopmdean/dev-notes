@@ -1,5 +1,3 @@
 # SQL
 
-```
-SELECT setval('table_seq', (SELECT MAX(id) FROM table_name));
-```
+[B Tress and B+ Trees](https://www.youtube.com/watch?v=aZjYr87r1b8)
