@@ -3,7 +3,3 @@
 ## TabBar
 
 ## TabBarView
-
-## BottomNavigationBar
-
-### BottomNavigationBarItem
