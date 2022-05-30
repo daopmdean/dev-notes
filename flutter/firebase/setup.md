@@ -1,5 +1,11 @@
 ## Android setup
 
+1. Register App  
+   Open app/build.gradle -> defaultConfig/applicationId
+2. Download config file & drag to app folder.
+3. Add firebase SDK.
+4. Finish seting up firebase for android.
+
 ## iOS setup
 
 1. Register App  
