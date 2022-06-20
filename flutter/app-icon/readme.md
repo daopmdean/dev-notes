@@ -11,3 +11,8 @@ Replace mipmap-... folders with folders generated from appicon
 
 Go to ios/Runner
 Replace Assets.xcassets folder with Assets.xcassets folder generated from appicon
+
+## Update Android Icon apparent
+
+Right click project -> Flutter -> Open Android module in android studio
+Right click Res folder -> New -> ...
