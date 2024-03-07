@@ -1,5 +1,0 @@
-# BottomNavigationBar
-
-- Within Scaffold
-
-## BottomNavigationBarItem

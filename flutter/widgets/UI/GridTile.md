@@ -1,3 +1,0 @@
-# GridTile
-
-- Within GridView

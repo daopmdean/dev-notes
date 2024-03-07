@@ -1,3 +1,0 @@
-# Drawer
-
-- Within Scaffold

@@ -1,7 +1,0 @@
-# Center
-
-```dart
-Center(
-  child: /*...*/,
-);
-```

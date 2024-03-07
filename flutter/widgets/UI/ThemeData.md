@@ -1,7 +1,0 @@
-# ThemeData
-
-```dart
-ThemeData(
-  /*...*/
-);
-```
