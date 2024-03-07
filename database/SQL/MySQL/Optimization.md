@@ -1,0 +1,1 @@
+Null optimization: https://dev.mysql.com/doc/refman/8.0/en/is-null-optimization.html
