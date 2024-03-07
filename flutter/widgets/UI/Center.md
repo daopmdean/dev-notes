@@ -1,0 +1,7 @@
+# Center
+
+```dart
+Center(
+  child: /*...*/,
+);
+```
