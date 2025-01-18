@@ -1,0 +1,3 @@
+
+1. choosing correct architecture: monolithic, micro services,.11..
+2. makes app stateless: JWT, Redis (storing temp session),...
