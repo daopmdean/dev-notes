@@ -1,0 +1,1 @@
+performance optimization: https://viblo.asia/s/performance-optimization-voi-postgresql-OVlYq8oal8W
