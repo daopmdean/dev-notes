@@ -9,3 +9,6 @@ Link: https://r2p.dev/b/2024-03-18-1brc-go/
 9 Software Architecture Patterns for Distributed Systems https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86?ref=dailydev
 
 go memory model: https://go.dev/ref/mem
+
+the way of 10x software engineer, entrepreneur
+https://chatgpt.com/share/68623a12-3520-8013-a699-3d0f9db129f9

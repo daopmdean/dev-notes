@@ -1,37 +1,9 @@
-Key features & benefits
-- Fullstack Apps
-- File-based routing
-- Server-side rendering
-Config routes by 'app' or 'pages'
+learn nextjs
 
----
+app router https://nextjs.org/learn/dashboard-app
 
-```
-import Link from 'next/link';
-```
+react & nextjs https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs#building-blocks-of-a-web-application
 
-navigate between pages
-
----
-```
-import Image from 'next/image'
-```
-optimize images in nextjs application
-
----
-
-```
-'use client';
-```
-to run code on client side
-
----
-```
-import { usePathname } from 'next/navigation';
+get started with react https://nextjs.org/learn/react-foundations/getting-started-with-react
 
 
-const path = usePathname();
-```
-get the path of the url, only use in client side
-
----
